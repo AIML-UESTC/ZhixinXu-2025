@@ -1,5 +1,5 @@
 # 开放环境下的电磁目标型号识别研究
-Original Implementation: https://github.com/abhijitbendale/OSDN
+Original Implementation: https://github.com/AIML-UESTC/ZhixinXu-2025
 
 ## 闭集识别
 - Train
